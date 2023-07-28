@@ -8,3 +8,5 @@
 Welcome to the Python3 for Data Science repository! Here, you will find a comprehensive collection of notes and examples designed specifically to teach Python 3 from scratch, focusing on the Data Scientist profile.
 
 Join us on this exciting journey towards understanding Python3 for Data Science! We hope that these notes and examples will help you develop valuable skills and propel you towards a successful career as a Data Scientist. If you have any questions or suggestions, feel free to open an issue or submit a pull request! Happy learning!
+
+Created by: https://github.com/EduDN
