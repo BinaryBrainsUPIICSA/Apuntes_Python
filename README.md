@@ -2,7 +2,7 @@
 
 ¡Únete a nosotrxs en este emocionante viaje hacia la comprensión de Python3 para Data Science! Esperamos que estos apuntes y ejemplos te ayuden a desarrollar habilidades valiosas y te impulsen hacia una exitosa carrera como Data Scientist. Si tienes alguna pregunta o sugerencia, ¡no dudes en abrir un issue o enviar un pull request! ¡Feliz aprendizaje!
 
-Hecho por: @EduDN
+Hecho por: EduDN
 
 ---------------------------------------------------------------------------------------------------
 
